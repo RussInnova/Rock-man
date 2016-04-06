@@ -1,2 +1,2 @@
 # Rock-man
-Rickman game written in Swift2
+Rockman game written in Swift2 - Based on Giga-Pet
